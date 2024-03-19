@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub
 ## A mon propos
-### Je m'appelle Mahinthan GUGANANTHAN. Je suis originaire du Sri Lanka et en France depuis 1993 !
+### Je m'appelle Mahinthan GUGANANTHAN.
 
 💻 Pour faire simple et accéléré, je suis détenteur d'un BTS Management des Unités Commerciales depuis 2010. Par la suite, j'ai accumulé beaucoup d'expériences dans le secteur du commerce (comme vendeur, chargé d'affaires) ainsi qu'en tant que serveur (à Londres pendant 1 an et demi et à Sydney pendant 7 mois).
 Je suis arrivé dans le milieu du développement web grâce à mon intérêt pour tout ce qui est digital. Mais ce qui m'a vraiment poussé à faire cette reconversion fut ma dernière expérience en tant que Chargé d'affaires !
