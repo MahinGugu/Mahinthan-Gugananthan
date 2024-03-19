@@ -38,7 +38,7 @@ A très bientôt !
 
 ### Database  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23003B57?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23003B57?logo=postgresql&logoColor=white)
 
 ### Outils
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?logo=Docker&logoColor=white&color=%232496ED)
