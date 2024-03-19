@@ -34,6 +34,7 @@ A très bientôt !
 ![Express](https://img.shields.io/badge/Express-%23000000?logo=Express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?logo=Laravel&logoColor=white&color=%23FF2D20)
+![Symfony](https://img.shields.io/badge/Symfony-%2300599C?logo=symfony&logoColor=white)
 
 ### Database  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
