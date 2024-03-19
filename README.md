@@ -4,6 +4,7 @@
 
 💻 Pour faire simple et accéléré, je suis détenteur d'un BTS Management des Unités Commerciales depuis 2010. Par la suite, j'ai accumulé beaucoup d'expériences dans le secteur du commerce (comme vendeur, chargé d'affaires) ainsi qu'en tant que serveur (à Londres pendant 1 an et demi et à Sydney pendant 7 mois).
 <br />
+<br />
 Je suis arrivé dans le milieu du développement web grâce à mon intérêt pour tout ce qui est digital. Mais ce qui m'a vraiment poussé à faire cette reconversion fut ma dernière expérience en tant que Chargé d'affaires !
 <br />
 J'ai eu l'opportunité de faire partie intégrante d'une équipe chargée du développement d'une plateforme de publication d'annonces légales au sein de NR Communication (journal basé à Tours). Dans cette équipe, en tant que chargé d'affaires, j'ai eu à échanger avec les clients, récolter des souhaits, des anomalies, diagnostiquer un souci technique pour ensuite les communiquer à l'équipe de développement.
