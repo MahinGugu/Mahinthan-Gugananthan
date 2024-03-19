@@ -33,7 +33,7 @@ A très bientôt !
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000?logo=Express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?logo=Laravel&logoColor=white&color=%23FF2D20)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?logo=Laravel&logoColor=white&color=%23FF2D20)
 ![Symfony](https://img.shields.io/badge/Symfony-%2300599C?logo=symfony&logoColor=white)
 
 ### Database  
