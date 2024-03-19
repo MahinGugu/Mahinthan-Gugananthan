@@ -41,5 +41,5 @@ A très bientôt !
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23003B57?logo=postgresql&logoColor=white)
 
 ### Outils
-![Static Badge](https://img.shields.io/badge/docker-%232496ED?logo=Docker&logoColor=white&color=%232496ED)
-![Static Badge](https://img.shields.io/badge/mamp-%2302749C?logo=Mamp&logoColor=white&color=%2302749C)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white&color=%232496ED)
+![Static Badge](https://img.shields.io/badge/Mamp-%2302749C?logo=Mamp&logoColor=white&color=%2302749C)
