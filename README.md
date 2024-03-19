@@ -23,7 +23,7 @@ A très bientôt !
 
 ## Skills
 ### FrontEnd
-![HTML5](https://img.shields.io/badge/html5-white?logo=Html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
+![HTML5](https://img.shields.io/badge/HTML-white?logo=Html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=black)
 ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=Javascript&logoColor=black)
