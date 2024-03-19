@@ -7,6 +7,7 @@
 Je suis arrivé dans le milieu du développement web grâce à mon intérêt pour tout ce qui est digital. Mais ce qui m'a vraiment poussé à faire cette reconversion fut ma dernière expérience en tant que Chargé d'affaires !
 J'ai eu l'opportunité de faire partie intégrante d'une équipe chargée du développement d'une plateforme de publication d'annonces légales au sein de NR Communication (journal basé à Tours). Dans cette équipe, en tant que chargé d'affaires, j'ai eu à échanger avec les clients, récolter des souhaits, des anomalies, diagnostiquer un souci technique pour ensuite les communiquer à l'équipe de développement.
 A force d'échanges avec cette équipe, cela m'a interpellé au point de leur poser pas mal de questions ! Cela m'a plu, la diversité, la réflexion (j'adore les noeuds au cerveau !!) et cela m'a motivé a entamé cette reconversion en tant que développeur web.
+<br />
 
 🌱 Au sein de Ada Tech School, j'ai pu faire beaucoup de projets collectifs que vous trouverez sur mon profil GitHub. Grâce à ces projets, j'ai pu apprendre beaucoup de langages, de frameworks, des outils, des méthodologies. Et j'apprends toujours, de façon autodidacte mais sur des langages où j'ai un intérêt plus important !
 
