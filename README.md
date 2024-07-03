@@ -16,6 +16,8 @@ A force d'échanges avec cette équipe, cela m'a interpellé au point de leur po
 🚀 Sur mon temps libre, j'aime apprendre ou améliorer de nouveaux langages comme React, Symfony, Vue.js, ... ou découvrir de nouvelles choses. Comme la cybersécurité, le hacking ou l'intelligence artificielle notamment. Plus tard, j'aimerai vraiment approfondir ces sujets là (à un niveau professionnel !). Mais demain est un autre jour !
 
 📖 Concernant ma recherche d'alternance, elle durera 12 mois minimum (pourquoi ? Je vous invite à me contacter pour le savoir) et dés que possible. Le rythme est de 4 jours en entreprise et 1 jour à l'école (obligatoirement le Vendredi). Je suis mobile et peux me déplacer sur Nantes, Angers et Tours.
+<br />
+Concernant la législation sur les contrats de professionnalisation, sachez qu'il y a eu de la nouveauté depuis le début d'année 2024 et en positif, n'hésitez pas à aller consulter içi ! : https://www.paysdelaloire.fr/les-aides/aide-contrat-de-professionnalisation
 
 📫 Pour me contacter, vous pouvez me joindre sur Linkedin (https://www.linkedin.com/in/mahinthan-gugananthan/) ou m'envoyer un mail à : mahinthan.gugananthan@gmail.com
 
